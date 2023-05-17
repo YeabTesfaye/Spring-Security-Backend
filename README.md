@@ -1,13 +1,7 @@
 <!DOCTYPE html>
 <html lang="eng">
-<head>
-  <meta charset="UTF-8">
-  <title>Java-based backend application</title>
-</head>
 <body>
   <h1>Java-based backend application</h1>
-
-
 <h2>Technologies Used</h2>
 
   <ul>
